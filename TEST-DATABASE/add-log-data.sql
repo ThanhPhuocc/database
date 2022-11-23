@@ -1,1 +1,2 @@
-insert into 
+INSERT INTO CUSTOMER (CUSTOMERID, NAME, CITY, COUNTRY, PHONE, EMAIL)  
+VALUES (456, , value3,...valueN);
